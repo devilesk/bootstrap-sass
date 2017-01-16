@@ -71,8 +71,8 @@
       background-color: $pagination-disabled-bg;
       border-color: $pagination-disabled-border;
       cursor: $cursor-disabled;
-      .opacity(.65);
-      .box-shadow(none);
+      opacity: .65;
+      box-shadow: none;
     }
   }
 }
